@@ -6,7 +6,7 @@
   <link href="https://gradendripar.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://gradendripar.gitee.io/"/>
-  <updated>2021-03-04T11:38:32.831Z</updated>
+  <updated>2021-03-05T04:25:58.916Z</updated>
   <id>https://gradendripar.gitee.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇文章</title>
+    <title>第二篇文章</title>
+    <link href="https://gradendripar.gitee.io/2021/03/05/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://gradendripar.gitee.io/2021/03/05/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2021-03-05T04:25:23.000Z</published>
+    <updated>2021-03-05T04:25:58.916Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这里是用来测试的第二篇文章"><a href="#这里是用来测试的第二篇文章" class="headerlink" title="这里是用来测试的第二篇文章"></a>这里是用来测试的第二篇文章</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;这里是用来测试的第二篇文章&quot;&gt;&lt;a href=&quot;#这里是用来测试的第二篇文章&quot; class=&quot;headerlink&quot; title=&quot;这里是用来测试的第二篇文章&quot;&gt;&lt;/a&gt;这里是用来测试的第二篇文章&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>官方示例文档</title>
     <link href="https://gradendripar.gitee.io/2021/03/03/hello-world/"/>
     <id>https://gradendripar.gitee.io/2021/03/03/hello-world/</id>
-    <published>2021-03-03T10:35:59.000Z</published>
-    <updated>2021-03-04T11:38:32.831Z</updated>
+    <published>2021-03-03T10:35:00.000Z</published>
+    <updated>2021-03-05T04:24:25.403Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><span id="more"></span><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -44,8 +64,8 @@
     <title>第一篇文章</title>
     <link href="https://gradendripar.gitee.io/2021/03/03/my-first-blog/"/>
     <id>https://gradendripar.gitee.io/2021/03/03/my-first-blog/</id>
-    <published>2021-03-03T10:35:59.000Z</published>
-    <updated>2021-03-04T11:38:34.761Z</updated>
+    <published>2021-03-03T10:35:00.000Z</published>
+    <updated>2021-03-05T05:03:45.082Z</updated>
     
     <content type="html"><![CDATA[<p>#这里是正文，用markdown写，你可以选择写一段显示在首页的简介后，加上<br><font color=red>你好，欢迎来到这个博客</font></p><span id="more"></span>#在之前的内容会显示在首页，之后的内容会被隐藏，当游客点击Read more才能看到<h1 id="这里是正文"><a href="#这里是正文" class="headerlink" title="这里是正文"></a>这里是正文</h1>]]></content>
     
@@ -57,7 +77,9 @@
     <category term="博客介绍" scheme="https://gradendripar.gitee.io/categories/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/"/>
     
     
-    <category term="博客，文章" scheme="https://gradendripar.gitee.io/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+    <category term="博客" scheme="https://gradendripar.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="文章" scheme="https://gradendripar.gitee.io/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
